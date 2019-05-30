@@ -8,24 +8,24 @@ This is Novogene's depository where any kinds of sequencing data are stored at. 
 
 For comparing to popular benchmark
 
-### + Whole Exome Data
+### 1.1 Whole Exome Data
 
 **Kit for exome capture**: Agilent SureSelect Human All Exon V6 Kit
 
 **Sequencing stratery**: Illumina NovaSeq, PE150
 
 
-### + Whole Genome Data
+### 1.2 Whole Genome Data
 
 **Sequencing stratery**: Illumina NovaSeq, PE150
 
 ## 2. RNA sequencing
 
-### + Strand-specific RNAseq
+### - Strand-specific RNAseq
 
 To be continued ...
 
-### + Ribosome-free RNAseq
+### - Ribosome-free RNAseq
 
 To be continued ...
 
@@ -39,8 +39,8 @@ To be continued ...
 
 
 ## Citations
-- 1. [Genome in a Bottle](https://www.nist.gov/programs-projects/genome-bottle)
-- 2. [ERCC RNA spike-in](https://jimb.stanford.edu/ercc)
+- [Genome in a Bottle](https://www.nist.gov/programs-projects/genome-bottle)
+- [ERCC RNA spike-in](https://jimb.stanford.edu/ercc)
 
 
 ## About Novogene ([EN](https://en.novogene.com) | [CN](http://www.novogene.com))
