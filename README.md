@@ -8,14 +8,14 @@ This is Novogene's depository where any kinds of sequencing data are stored at. 
 
 For comparing to popular benchmark
 
-### 1.1 Whole Exome Data
+- ### Whole Exome Data
 
 **Kit for exome capture**: Agilent SureSelect Human All Exon V6 Kit
 
 **Sequencing stratery**: Illumina NovaSeq, PE150
 
 
-### 1.2 Whole Genome Data
+- ### Whole Genome Data
 
 **Sequencing stratery**: Illumina NovaSeq, PE150
 
@@ -32,7 +32,7 @@ To be continued ...
 
 ## 3. Bisulfite Sequencing
 
-### + Whole Genome Bisulfite Sequencing
+- ### Whole Genome Bisulfite Sequencing
 
 To be continued ...
 
