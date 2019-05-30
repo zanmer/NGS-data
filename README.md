@@ -6,7 +6,7 @@ This deposity contains many kinds of sequencing datasets from Novogene. Any rese
 
 ## 1. Human Genome Sequencing
 
-To compare with benchmark of GIAB, we provide genome sequencing data of HG002, which is one member of Ashkenazim son-father-mother trio, also named NA24385. The "High-confidence" variant calls are available for GRCh37 and GRCh38 under each genome at [NCBI ftp](https://bit.ly/2HNGELT) or [ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release]().
+To compare with benchmark of GIAB, we provide genome sequencing data of HG002, which is one member of Ashkenazim son-father-mother trio, also named NA24385. The "High-confidence" variant calls are available for GRCh37 and GRCh38 under each genome at [NCBI ftp](https://bit.ly/2HNGELT) or ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release.
 
 - ### Whole Exome Sequencing
 
@@ -36,9 +36,9 @@ Novogene | Novogene_wgs_150g_1.fq.gz | Novogene_wgs_150g_2.fq.gz | xxx | xxx | 1
 
 ## 2. Transcriptome Sequencing
 
-Transcriptome or RNA sequencing can be ultilized to analysis many kinds of RNA molecules, such as mRNA, non coding RNA, small RNA and RNA from a single cell. To get a better view of data quality, we also sequence with ERCC spike-in control mixtures, which are used to evaluation gene expression measurement of new technique.
+Transcriptome or RNA sequencing can be ultilized to analysis many classes of RNA molecules, such as mRNA, non coding RNA, small RNA or RNAs from a single cell. To get a better view of data quality, we also sequence with ERCC spike-in control mixtures, which are used to evaluation gene expression measurement of new technique.
 
-- ### mRNA sequencing
+- ### mRNA Sequencing
 
 species | left reads | right reads | left md5 | right md5 | spike-in | data size
 ---|:--:|:--:|:--:|:--:|:--:|:--
@@ -49,13 +49,13 @@ Arabidopsis | Novogene_arabidopsis_mrnaseq_rep1_1.fq.gz | Novogene_arabidopsis_m
 Arabidopsis | Novogene_arabidopsis_mrnaseq_rep2_1.fq.gz | Novogene_arabidopsis_mrnaseq_rep2_2.fq.gz | xxx | xxx | Y | 6G
 Arabidopsis | Novogene_arabidopsis_mrnaseq_rep3_1.fq.gz | Novogene_arabidopsis_mrnaseq_rep3_2.fq.gz | xxx | xxx | Y | 6G
 
-- ### whole RNA sequencing
+- ### Whole RNA Sequencing
 species | left reads | right reads | left md5 | right md5 | spike-in | data size
 ---|:--:|:--:|:--:|:--:|:--:|:--
-Human | Novogene_human_wholernaseq_1.fq.gz | Novogene_human_wholernaseq_2.fq.gz | xxx | xxx | Y | 12G
-Arabidopsis | Novogene_arabidopsis_wholernaseq_1.fq.gz | Novogene_arabidopsis_wholernaseq_2.fq.gz | xxx | xxx | Y | 12G
+Human | Novogene_human_wholernaseq_1.fq.gz | Novogene_human_wholernaseq_2.fq.gz | xxx | xxx | N | 12G
+Arabidopsis | Novogene_arabidopsis_wholernaseq_1.fq.gz | Novogene_arabidopsis_wholernaseq_2.fq.gz | xxx | xxx | N | 12G
 
-- ### single cell RNA sequencing
+- ### Single Cell RNA Sequencing
 
 ```
 To be continued ...
@@ -63,12 +63,23 @@ To be continued ...
 
 
 ## 3. PacBio Sequencing
+
+- ### Isoform Sequencing (Iso-Seq)
+```
+To be continued ...
+```
+- ### Pacbio Genome Sequencing
 ```
 To be continued ...
 ```
 
 
 ## 4. 10X Genomics
+- ### 10X Single Cell Gene Expression
+```
+To be continued ...
+```
+- ### 10X Linked-Reads Genome Sequencing
 ```
 To be continued ...
 ```
