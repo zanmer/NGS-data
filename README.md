@@ -21,11 +21,11 @@ For comparing to popular benchmark
 
 ## 2. RNA sequencing
 
-### - Strand-specific RNAseq
+- ### Strand-specific RNAseq
 
 To be continued ...
 
-### - Ribosome-free RNAseq
+- ### Ribosome-free RNAseq
 
 To be continued ...
 
