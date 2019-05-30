@@ -1,1 +1,6 @@
-# human_genome_sequencing
+# Human Genome Sequencing
+
+## Sequencing Basic Statistics
+
+
+## HG002 evaluation
