@@ -6,7 +6,7 @@ This deposity contains many kinds of sequencing datasets from Novogene. Any rese
 
 ## 1. Human Genome Sequencing
 
-To compare with benchmark of GIAB, we provide genome sequencing data of HG002, which is one member of Ashkenazim son-father-mother trio, also named NA24385. The "High-confidence" variant calls are available for GRCh37 and GRCh38 under each genome at [NCBI ftp](https://bit.ly/2HNGELT) or ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release.
+To compare with benchmark of GIAB, we provide genome sequencing data of HG002, which is one member of Ashkenazim son-father-mother trio, also named NA24385. The "High-confidence" variant calls are available for GRCh37 and GRCh38 under each genome at [NCBI ftp](https://bit.ly/2HNGELT) or [ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release]().
 
 - ### Whole Exome Sequencing
 
