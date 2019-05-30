@@ -1,9 +1,36 @@
 # NGS-data
 
 ## Introduciton
-This is Novogene's depository where any kinds of sequencing data are stored at. Any researchers or 
+This is Novogene's depository where any kinds of sequencing data are stored at. Any researchers, clinicians or collaborators who are interested in NGS can download freely. And we appriciate that you could give us any advice or suggestions.
+
+## Human Genome Sequencing
+For comparing to popular benchmark
+
+### Whole Exome Data
+**Kit for exome capture**: Agilent SureSelect Human All Exon V6 Kit
+**Sequencing stratery**: Illumina NovaSeq, PE150
 
 
+### Whole Genome Data
+**Sequencing stratery**: Illumina NovaSeq, PE150
+
+## RNA sequencing
+### Strand-specific RNAseq
+To be continued ...
+
+### Ribosome-free RNAseq
+To be continued ...
+
+
+## Bisulfite Sequencing
+### Whole Genome Bisulfite Sequencing
+To be continued ...
+
+
+
+## Citations
+1. [Genome in a Bottle](https://www.nist.gov/programs-projects/genome-bottle)
+2. [ERCC RNA spike-in](https://jimb.stanford.edu/ercc)
 
 
 ## About Novogene ([EN](https://en.novogene.com) | [CN](http://www.novogene.com))
