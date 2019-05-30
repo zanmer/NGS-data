@@ -12,7 +12,7 @@ To compare with benchmark of GIAB, we provide genome sequencing data of HG002, w
 
 **Kit for exome capture**: Agilent SureSelect Human All Exon V6 Kit
 
-**Sequencing stratery**: Illumina NovaSeq, PE150
+**Sequencing strategy**: Illumina NovaSeq, PE150
 
 sample source | left reads | right reads | md5sum | data size
 ---|:--:|:--:|:--:|:--
@@ -24,7 +24,7 @@ HG002 | HG002_novogene_wes_6g_1.fq.gz | HG002_novogene_wes_6g_2.fq.gz | md5 | 6G
 
 - ### Whole Genome Sequencing
 
-**Sequencing stratery**: Illumina NovaSeq, PE150
+**Sequencing strategy**: Illumina NovaSeq, PE150
 
 sample source | left reads | right reads | md5sum | data size
 ---|:--:|:--:|:--:|:--
