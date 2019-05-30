@@ -39,14 +39,21 @@ Novogene | Novogene_wgs_150g_1.fq.gz | Novogene_wgs_150g_2.fq.gz | xxx | xxx | 1
 Transcriptome or RNA sequencing can be ultilized to analysis many kinds of RNA molecules, such as mRNA, non coding RNA, small RNA and RNA from a single cell. To get a better view of data quality, we also sequence with ERCC spike-in control mixtures, which are used to evaluation gene expression measurement of new technique.
 
 - ### mRNA sequencing
-```
-To be continued ...
-```
-- ### whole RNA sequencing
 
-```
-To be continued ...
-```
+species | left reads | right reads | left md5 | right md5 | spike-in | data size
+---|:--:|:--:|:--:|:--:|:--:|:--
+Human | Novogene_human_mrnaseq_rep1_1.fq.gz | Novogene_human_mrnaseq_rep1_2.fq.gz | xxx | xxx | Y | 6G
+Human | Novogene_human_mrnaseq_rep2_1.fq.gz | Novogene_human_mrnaseq_rep2_2.fq.gz | xxx | xxx | Y | 6G
+Human | Novogene_human_mrnaseq_rep3_1.fq.gz | Novogene_human_mrnaseq_rep3_2.fq.gz | xxx | xxx | Y | 6G
+Arabidopsis | Novogene_arabidopsis_mrnaseq_rep1_1.fq.gz | Novogene_arabidopsis_mrnaseq_rep1_2.fq.gz | xxx | xxx | Y | 6G
+Arabidopsis | Novogene_arabidopsis_mrnaseq_rep2_1.fq.gz | Novogene_arabidopsis_mrnaseq_rep2_2.fq.gz | xxx | xxx | Y | 6G
+Arabidopsis | Novogene_arabidopsis_mrnaseq_rep3_1.fq.gz | Novogene_arabidopsis_mrnaseq_rep3_2.fq.gz | xxx | xxx | Y | 6G
+
+- ### whole RNA sequencing
+species | left reads | right reads | left md5 | right md5 | spike-in | data size
+---|:--:|:--:|:--:|:--:|:--:|:--
+Human | Novogene_human_wholernaseq_1.fq.gz | Novogene_human_wholernaseq_2.fq.gz | xxx | xxx | Y | 12G
+Arabidopsis | Novogene_arabidopsis_wholernaseq_1.fq.gz | Novogene_arabidopsis_wholernaseq_2.fq.gz | xxx | xxx | Y | 12G
 
 - ### single cell RNA sequencing
 
