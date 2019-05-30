@@ -7,13 +7,19 @@ This is Novogene's depository where any kinds of sequencing data are stored at. 
 ## 1. Human Genome Sequencing
 
 To compare with benchmark of GIAB, we provide genome sequencing data of HG002, which is one member of Ashkenazim son-father-mother trio, also named NA24385. The "High-confidence" variant calls are available for GRCh37 and GRCh38 under each genome at [NCBI ftp](https://bit.ly/2HNGELT)
-(ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/).
 
 - ### Whole Exome Data
 
 **Kit for exome capture**: Agilent SureSelect Human All Exon V6 Kit
 
 **Sequencing stratery**: Illumina NovaSeq, PE150
+
+sample source | left reads | right reads | left md5 | right md5 | data size
+---|:--:|:--:|:--:|:--:|:--
+HG002 | HG002_novogene_20g_rep1_1.fq.gz | HG002_novogene_20g_rep1_2.fq.gz | xxx | xxx | 20G
+HG002 | HG002_novogene_20g_rep2_1.fq.gz | HG002_novogene_20g_rep2_2.fq.gz | xxx | xxx | 20G
+HG002 | HG002_novogene_12g_1.fq.gz | HG002_novogene_12g_2.fq.gz | xxx | xxx | 12G
+HG002 | HG002_novogene_6g_1.fq.gz | HG002_novogene_6g_2.fq.gz | xxx | xxx | 6G
 
 
 - ### Whole Genome Data
@@ -37,6 +43,12 @@ To be continued ...
 
 To be continued ...
 
+## 4. PacBio Sequencing
+To be continued ...
+
+
+## 5. 10X Genomics
+To be continued ...
 
 
 ## Citations
