@@ -36,7 +36,7 @@ Novogene | Novogene_wgs_150g_1.fq.gz | Novogene_wgs_150g_2.fq.gz | xxx | xxx | 1
 
 ## 2. Transcriptome Sequencing
 
-
+Transcriptome or RNA sequencing can be ultilized to analysis many kinds of RNA molecules, such as mRNA, non coding RNA, small RNA and RNA from a single cell. To get a better view of data quality, we also sequence with ERCC spike-in control mixtures, which are used to evaluation gene expression measurement of new technique.
 
 - ### mRNA sequencing
 ```
