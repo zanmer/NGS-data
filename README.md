@@ -16,15 +16,23 @@ To compare with benchmark of GIAB, we provide genome sequencing data of HG002, w
 
 sample source | left reads | right reads | left md5 | right md5 | data size
 ---|:--:|:--:|:--:|:--:|:--
-HG002 | HG002_novogene_20g_rep1_1.fq.gz | HG002_novogene_20g_rep1_2.fq.gz | xxx | xxx | 20G
-HG002 | HG002_novogene_20g_rep2_1.fq.gz | HG002_novogene_20g_rep2_2.fq.gz | xxx | xxx | 20G
-HG002 | HG002_novogene_12g_1.fq.gz | HG002_novogene_12g_2.fq.gz | xxx | xxx | 12G
-HG002 | HG002_novogene_6g_1.fq.gz | HG002_novogene_6g_2.fq.gz | xxx | xxx | 6G
+HG002 | HG002_novogene_wes_20g_rep1_1.fq.gz | HG002_novogene_wes_20g_rep1_2.fq.gz | xxx | xxx | 20G
+HG002 | HG002_novogene_wes_20g_rep2_1.fq.gz | HG002_novogene_wes_20g_rep2_2.fq.gz | xxx | xxx | 20G
+HG002 | HG002_novogene_wes_12g_1.fq.gz | HG002_novogene_wes_12g_2.fq.gz | xxx | xxx | 12G
+HG002 | HG002_novogene_wes_6g_1.fq.gz | HG002_novogene_wes_6g_2.fq.gz | xxx | xxx | 6G
 
 
 - ### Whole Genome Data
 
 **Sequencing stratery**: Illumina NovaSeq, PE150
+
+sample source | left reads | right reads | left md5 | right md5 | data size
+---|:--:|:--:|:--:|:--:|:--
+HG002 | HG002_novogene_wes_20g_1.fq.gz | HG002_novogene_wgs_20g_2.fq.gz | xxx | xxx | 20G
+Novogene | Novogene_wgs_90g_1.fq.gz | Novogene_wgs_90g_2.fq.gz | xxx | xxx | 90G
+Novogene | Novogene_wgs_120g_1.fq.gz | Novogene_wgs_120g_2.fq.gz | xxx | xxx | 120G
+Novogene | Novogene_wgs_150g_1.fq.gz | Novogene_wgs_150g_2.fq.gz | xxx | xxx | 150G
+
 
 ## 2. RNA sequencing
 
