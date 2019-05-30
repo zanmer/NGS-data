@@ -6,7 +6,7 @@ This is Novogene's depository where any kinds of sequencing data are stored at. 
 
 ## 1. Human Genome Sequencing
 
-For comparing to popular benchmark
+To compare with benchmark of GIAB, we provide genome sequencing data of HG002, which is one member of Ashkenazim son-father-mother trio, also named NA24385. The "High-confidence" variant calls are available for GRCh37 and GRCh38 under each genome at [NCBI ftp](ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/).
 
 - ### Whole Exome Data
 
@@ -40,7 +40,7 @@ To be continued ...
 
 ## Citations
 - [Genome in a Bottle](https://www.nist.gov/programs-projects/genome-bottle)
-- [ERCC RNA spike-in](https://jimb.stanford.edu/ercc)
+- [ERCC - External RNA Controls Consortium](https://jimb.stanford.edu/ercc)
 
 
 ## About Novogene ([EN](https://en.novogene.com) | [CN](http://www.novogene.com))
