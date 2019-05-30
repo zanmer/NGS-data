@@ -66,13 +66,16 @@ To be continued ...
 ## 3. PacBio Sequencing
 
 - ### Isoform Sequencing (Iso-Seq)
-```
-To be continued ...
-```
+
+species | subread_bam | subread_bam_index | md5sum | data size
+---|:--:|:--:|:--:|:--
+Human | Novogene_pacbio_isoseq_subreads.bam | Novogene_pacbio_isoseq_subreads.bam.pbi | md5 | 
+
 - ### Pacbio Genome Sequencing
-```
-To be continued ...
-```
+
+species | subread_bam | subread_bam_index | md5sum | data size
+---|:--:|:--:|:--:|:--
+XXX | Novogene_pacbio_genome_subreads.bam | Novogene_pacbio_genome_subreads.bam.pbi | md5 | 
 
 
 ## 4. 10X Genomics
@@ -81,9 +84,10 @@ To be continued ...
 To be continued ...
 ```
 - ### 10X Linked-Reads Genome Sequencing
-```
-To be continued ...
-```
+
+species | subread_bam | subread_bam_index | md5sum | data size
+---|:--:|:--:|:--:|:--
+XXX | Novogene_pacbio_genome_subreads.bam | Novogene_pacbio_genome_subreads.bam.pbi | md5 | 
 
 
 ## Citations
