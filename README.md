@@ -36,31 +36,35 @@ Novogene | Novogene_wgs_150g_1.fq.gz | Novogene_wgs_150g_2.fq.gz | xxx | xxx | 1
 
 ## 2. Transcriptome Sequencing
 
+
+
 - ### mRNA sequencing
 ```
 To be continued ...
 ```
 - ### whole RNA sequencing
 
+```
 To be continued ...
+```
 
 - ### single cell RNA sequencing
 
+```
 To be continued ...
+```
 
 
-## 3. Bisulfite Sequencing
-
-- ### whole genome bisulfite sequencing
-
+## 3. PacBio Sequencing
+```
 To be continued ...
+```
 
-## 4. PacBio Sequencing
+
+## 4. 10X Genomics
+```
 To be continued ...
-
-
-## 5. 10X Genomics
-To be continued ...
+```
 
 
 ## Citations
