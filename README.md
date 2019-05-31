@@ -80,14 +80,16 @@ XXX | Novogene_pacbio_genome_subreads.bam | Novogene_pacbio_genome_subreads.bam.
 
 ## 4. 10X Genomics
 - ### 10X Single Cell Gene Expression
-```
-To be continued ...
-```
+
+species | left reads | right reads | md5sum | data size
+---|:--:|:--:|:--:|:--
+XXX | Novogene_10x_singlecell_i1_1.fq.gz Novogene_10x_singlecell_i2_1.fq.gz Novogene_10x_singlecell_i3_1.fq.gz Novogene_10x_singlecell_i4_1.fq.gz | Novogene_10x_singlecell_i1_2.fq.gz Novogene_10x_singlecell_i2_2.fq.gz Novogene_10x_singlecell_i3_2.fq.gz Novogene_10x_singlecell_i4_2.fq.gz | md5 | 
+
 - ### 10X Linked-Reads Genome Sequencing
 
-species | subread_bam | subread_bam_index | md5sum | data size
+species | left reads | right reads | md5sum | data size
 ---|:--:|:--:|:--:|:--
-XXX | Novogene_pacbio_genome_subreads.bam | Novogene_pacbio_genome_subreads.bam.pbi | md5 | 
+XXX | Novogene_10x_genome_i1_1.fq.gz Novogene_10x_genome_i2_1.fq.gz Novogene_10x_genome_i3_1.fq.gz Novogene_10x_genome_i4_1.fq.gz | Novogene_10x_genome_i1_2.fq.gz Novogene_10x_genome_i2_2.fq.gz Novogene_10x_genome_i3_2.fq.gz Novogene_10x_genome_i4_2.fq.gz | md5 | 
 
 
 ## Citations
