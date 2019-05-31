@@ -1,5 +1,7 @@
-# NGS-data
 ![logo](https://github.com/zanmer/NGS-data/blob/master/novogene-logo.png)
+
+# NGS-data
+
 ## Introduciton
 
 This deposity contains many kinds of sequencing datasets from Novogene. Any researchers, clinicians or collaborators who are interested in NGS can download freely. And we appriciate that you could give us any advice or suggestions.
