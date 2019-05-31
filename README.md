@@ -31,7 +31,7 @@ sample source | left reads | right reads | md5sum | data size
 HG002 | HG002_novogene_wes_20g_1.fq.gz | HG002_novogene_wgs_20g_2.fq.gz | md5 | 20G
 Novogene | Novogene_wgs_90g_1.fq.gz | Novogene_wgs_90g_2.fq.gz | md5 | 90G
 Novogene | Novogene_wgs_120g_1.fq.gz | Novogene_wgs_120g_2.fq.gz | md5 | 120G
-Novogene | Novogene_wgs_180g_1.fq.gz | Novogene_wgs_180g_2.fq.gz | md5 | 180G
+Novogene | Novogene_wgs_180g_l1_1.fq.gz Novogene_wgs_180g_l2_1.fq.gz | Novogene_wgs_180g_l2_2.fq.gz Novogene_wgs_180g_l2_2.fq.gz | md5 | 180G
 
 
 
