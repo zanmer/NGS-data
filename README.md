@@ -1,6 +1,6 @@
 ![logo](https://github.com/zanmer/NGS-data/blob/master/novogene-logo.png)
 
-# NGS-data
+# NGS datasets
 
 ## Introduciton
 
@@ -18,10 +18,10 @@ To compare with benchmark of GIAB, we provide genome sequencing data of HG002, w
 
 sample source | left reads | right reads | md5sum | data size
 ---|:--:|:--:|:--:|:--
-HG002 | [HG002_novogene_wes_20g_rep1_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123024/HG002_novogene_wes_20g_rep1_R1.fq.gz) | [HG002_novogene_wes_20g_rep1_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123102/HG002_novogene_wes_20g_rep1_R2.fq.gz) | md5 | 16G
-HG002 | [HG002_novogene_wes_20g_rep2_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123142/HG002_novogene_wes_20g_rep2_R1.fq.gz) | [HG002_novogene_wes_20g_rep2_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123218/HG002_novogene_wes_20g_rep2_R2.fq.gz) | md5 | 16G
-HG002 | [HG002_novogene_wes_12g_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122657/HG002_novogene_wes_12g_R1.fq.gz) | [HG002_novogene_wes_12g_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122736/HG002_novogene_wes_12g_R2.fq.gz) | md5 | 12G
-HG002 | [HG002_novogene_wes_6g_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123259/HG002_novogene_wes_6g_R1.fq.gz) | [HG002_novogene_wes_6g_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123315/HG002_novogene_wes_6g_R2.fq.gz) | md5 | 6G
+HG002 | [HG002_novogene_wes_20g_rep1_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123024/HG002_novogene_wes_20g_rep1_R1.fq.gz) | [HG002_novogene_wes_20g_rep1_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123102/HG002_novogene_wes_20g_rep1_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/human_genome_sequencing/HG002_novogene_wes_20g_rep1.MD5) | 16G
+HG002 | [HG002_novogene_wes_20g_rep2_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123142/HG002_novogene_wes_20g_rep2_R1.fq.gz) | [HG002_novogene_wes_20g_rep2_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123218/HG002_novogene_wes_20g_rep2_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/human_genome_sequencing/HG002_novogene_wes_20g_rep2.MD5) | 16G
+HG002 | [HG002_novogene_wes_12g_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122657/HG002_novogene_wes_12g_R1.fq.gz) | [HG002_novogene_wes_12g_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122736/HG002_novogene_wes_12g_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/human_genome_sequencing/HG002_novogene_wes_12g.MD5) | 12G
+HG002 | [HG002_novogene_wes_6g_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123259/HG002_novogene_wes_6g_R1.fq.gz) | [HG002_novogene_wes_6g_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123315/HG002_novogene_wes_6g_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/human_genome_sequencing/HG002_novogene_wes_6g.MD5) | 6G
 
 
 - ### Whole Genome Sequencing
@@ -30,10 +30,10 @@ HG002 | [HG002_novogene_wes_6g_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.
 
 sample source | left reads | right reads | md5sum | data size
 ---|:--:|:--:|:--:|:--
-HG002 | [HG002_novogene_wgs_20g_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122821/HG002_novogene_wes_20g_R1.fq.gz) | [HG002_novogene_wgs_20g_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122925/HG002_novogene_wes_20g_R2.fq.gz) | md5 | 20G
-Novogene | [Novogene_wgs_90g_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531125345/Novogene_wgs_90g_R1.fq.gz) | [Novogene_wgs_90g_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531125711/Novogene_wgs_90g_R2.fq.gz) | md5 | 90G
-Novogene | [Novogene_wgs_120g_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123332/Novogene_wgs_120g_R1.fq.gz) | [Novogene_wgs_120g_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123728/Novogene_wgs_120g_R2.fq.gz) | md5 | 120G
-Novogene | [Novogene_wgs_180g_l1_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531124142/Novogene_wgs_180g_l1_R1.fq.gz) [Novogene_wgs_180g_l2_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531125040/Novogene_wgs_180g_l2_R1.fq.gz) | [Novogene_wgs_180g_l1_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531124606/Novogene_wgs_180g_l1_R2.fq.gz) [Novogene_wgs_180g_l2_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531125210/Novogene_wgs_180g_l2_R2.fq.gz) | md5 | 180G
+HG002 | [HG002_novogene_wgs_20g_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122821/HG002_novogene_wes_20g_R1.fq.gz) | [HG002_novogene_wgs_20g_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122925/HG002_novogene_wes_20g_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/human_genome_sequencing/HG002_novogene_wgs_20g.MD5) | 20G
+Novogene | [Novogene_wgs_90g_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531125345/Novogene_wgs_90g_R1.fq.gz) | [Novogene_wgs_90g_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531125711/Novogene_wgs_90g_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/human_genome_sequencing/Novogene_wgs_90g.MD5) | 90G
+Novogene | [Novogene_wgs_120g_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123332/Novogene_wgs_120g_R1.fq.gz) | [Novogene_wgs_120g_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531123728/Novogene_wgs_120g_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/human_genome_sequencing/Novogene_wgs_120g.MD5) | 120G
+Novogene | [Novogene_wgs_180g_l1_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531124142/Novogene_wgs_180g_l1_R1.fq.gz) [Novogene_wgs_180g_l2_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531125040/Novogene_wgs_180g_l2_R1.fq.gz) | [Novogene_wgs_180g_l1_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531124606/Novogene_wgs_180g_l1_R2.fq.gz) [Novogene_wgs_180g_l2_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531125210/Novogene_wgs_180g_l2_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/human_genome_sequencing/Novogene_wgs_180g.MD5) | 180G
 
 
 
@@ -45,24 +45,24 @@ Transcriptome or RNA sequencing can be ultilized to analysis many classes of RNA
 
 species | left reads | right reads | md5sum | spike-in | data size
 ---|:--:|:--:|:--:|:--:|:--
-Human | [Novogene_human_mrnaseq_rep1_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130352/Novogene_human_mrnaseq_rep1_R1.fq.gz) | [Novogene_human_mrnaseq_rep1_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130421/Novogene_human_mrnaseq_rep1_R2.fq.gz) | md5 | Y | 6G
-Human | [Novogene_human_mrnaseq_rep2_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130451/Novogene_human_mrnaseq_rep2_R1.fq.gz) | [Novogene_human_mrnaseq_rep2_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130524/Novogene_human_mrnaseq_rep2_R2.fq.gz) | md5 | Y | 6G
-Human | [Novogene_human_mrnaseq_rep3_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130558/Novogene_human_mrnaseq_rep3_R1.fq.gz) | [Novogene_human_mrnaseq_rep3_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130633/Novogene_human_mrnaseq_rep3_R2.fq.gz) | md5 | Y | 6G
-Arabidopsis | [Novogene_arabidopsis_mrnaseq_rep1_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130043/Novogene_arabidopsis_mrnaseq_rep1_R1.fq.gz) | [Novogene_arabidopsis_mrnaseq_rep1_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130113/Novogene_arabidopsis_mrnaseq_rep1_R2.fq.gz) | md5 | Y | 6G
-Arabidopsis | [Novogene_arabidopsis_mrnaseq_rep2_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130143/Novogene_arabidopsis_mrnaseq_rep2_R1.fq.gz) | [Novogene_arabidopsis_mrnaseq_rep2_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130216/Novogene_arabidopsis_mrnaseq_rep2_R2.fq.gz) | md5 | Y | 6G
-Arabidopsis | [Novogene_arabidopsis_mrnaseq_rep3_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130249/Novogene_arabidopsis_mrnaseq_rep3_R1.fq.gz) | [Novogene_arabidopsis_mrnaseq_rep3_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130320/Novogene_arabidopsis_mrnaseq_rep3_R2.fq.gz) | md5 | Y | 6G
+Human | [Novogene_human_mrnaseq_rep1_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130352/Novogene_human_mrnaseq_rep1_R1.fq.gz) | [Novogene_human_mrnaseq_rep1_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130421/Novogene_human_mrnaseq_rep1_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/transcriptome_sequencing/Novogene_human_mrnaseq_rep1.MD5) | Y | 6G
+Human | [Novogene_human_mrnaseq_rep2_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130451/Novogene_human_mrnaseq_rep2_R1.fq.gz) | [Novogene_human_mrnaseq_rep2_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130524/Novogene_human_mrnaseq_rep2_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/transcriptome_sequencing/Novogene_human_mrnaseq_rep2.MD5) | Y | 6G
+Human | [Novogene_human_mrnaseq_rep3_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130558/Novogene_human_mrnaseq_rep3_R1.fq.gz) | [Novogene_human_mrnaseq_rep3_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130633/Novogene_human_mrnaseq_rep3_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/transcriptome_sequencing/Novogene_human_mrnaseq_rep3.MD5) | Y | 6G
+Arabidopsis | [Novogene_arabidopsis_mrnaseq_rep1_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130043/Novogene_arabidopsis_mrnaseq_rep1_R1.fq.gz) | [Novogene_arabidopsis_mrnaseq_rep1_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130113/Novogene_arabidopsis_mrnaseq_rep1_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/transcriptome_sequencing/Novogene_arabidopsis_mrnaseq_rep1.MD5) | Y | 6G
+Arabidopsis | [Novogene_arabidopsis_mrnaseq_rep2_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130143/Novogene_arabidopsis_mrnaseq_rep2_R1.fq.gz) | [Novogene_arabidopsis_mrnaseq_rep2_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130216/Novogene_arabidopsis_mrnaseq_rep2_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/transcriptome_sequencing/Novogene_arabidopsis_mrnaseq_rep2.MD5) | Y | 6G
+Arabidopsis | [Novogene_arabidopsis_mrnaseq_rep3_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130249/Novogene_arabidopsis_mrnaseq_rep3_R1.fq.gz) | [Novogene_arabidopsis_mrnaseq_rep3_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531130320/Novogene_arabidopsis_mrnaseq_rep3_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/transcriptome_sequencing/Novogene_arabidopsis_mrnaseq_rep3.MD5) | Y | 6G
 
 - ### Whole RNA Sequencing
 
 species | left reads | right reads | md5sum | spike-in | data size
 ---|:--:|:--:|:--:|:--:|:--
-Human | [Novogene_human_wholernaseq_R1.fq.gz](https://hweu-tj.oss-cn-beijing.aliyuncs.com/demo/20190531193633/Novogene_human_wholernaseq_R1.fq.gz) | [Novogene_human_wholernaseq_R2.fq.gz](https://hweu-tj.oss-cn-beijing.aliyuncs.com/demo/20190531193723/Novogene_human_wholernaseq_R2.fq.gz) | md5 | N | 12G
+Human | [Novogene_human_wholernaseq_R1.fq.gz](https://hweu-tj.oss-cn-beijing.aliyuncs.com/demo/20190531193633/Novogene_human_wholernaseq_R1.fq.gz) | [Novogene_human_wholernaseq_R2.fq.gz](https://hweu-tj.oss-cn-beijing.aliyuncs.com/demo/20190531193723/Novogene_human_wholernaseq_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/transcriptome_sequencing/Novogene_human_wholernaseq.MD5) | N | 12G
 
 - ### Single Cell RNA Sequencing
 
 species | left reads | right reads | md5sum | spike-in | data size
 ---|:--:|:--:|:--:|:--:|:--
-Arabidopsis | [Novogene_arabidopsis_singlecell_R1.fq.gz](https://hweu-tj.oss-cn-beijing.aliyuncs.com/demo/20190531193537/Novogene_arabidopsis_singlecell_R1.fq.gz) | [Novogene_arabidopsis_singlecell_R2.fq.gz](https://hweu-tj.oss-cn-beijing.aliyuncs.com/demo/20190531193605/Novogene_arabidopsis_singlecell_R2.fq.gz) | md5 | N | 12G
+Arabidopsis | [Novogene_arabidopsis_singlecell_R1.fq.gz](https://hweu-tj.oss-cn-beijing.aliyuncs.com/demo/20190531193537/Novogene_arabidopsis_singlecell_R1.fq.gz) | [Novogene_arabidopsis_singlecell_R2.fq.gz](https://hweu-tj.oss-cn-beijing.aliyuncs.com/demo/20190531193605/Novogene_arabidopsis_singlecell_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/transcriptome_sequencing/Novogene_arabidopsis_singlecell.MD5) | N | 12G
 
 
 ## 3. PacBio Sequencing
@@ -71,13 +71,13 @@ Arabidopsis | [Novogene_arabidopsis_singlecell_R1.fq.gz](https://hweu-tj.oss-cn-
 
 species | subread_bam | subread_bam_index | md5sum | data size
 ---|:--:|:--:|:--:|:--
-Human | Novogene_pacbio_isoseq_subreads.bam | [Novogene_pacbio_isoseq_subreads.bam.pbi](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_isoseq_subreads.bam.pbi) | md5 | 
+Human | Novogene_pacbio_isoseq_subreads.bam | [Novogene_pacbio_isoseq_subreads.bam.pbi](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_isoseq_subreads.bam.pbi) | [md5](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_isoseq.MD5) | 
 
 - ### Pacbio Genome Sequencing
 
 species | subread_bam | subread_bam_index | md5sum | data size
 ---|:--:|:--:|:--:|:--
-XXX | Novogene_pacbio_genome_subreads.bam | [Novogene_pacbio_genome_subreads.bam.pbi](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_genome_subreads.bam.pbi) | md5 | 
+XXX | Novogene_pacbio_genome_subreads.bam | [Novogene_pacbio_genome_subreads.bam.pbi](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_genome_subreads.bam.pbi) | [md5](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_genome.MD5) | 
 
 
 ## 4. 10X Genomics
@@ -85,13 +85,13 @@ XXX | Novogene_pacbio_genome_subreads.bam | [Novogene_pacbio_genome_subreads.bam
 
 species | left reads | right reads | md5sum | data size
 ---|:--:|:--:|:--:|:--
-XXX | [Novogene_10x_singlecell_i1_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122450/Novogene_10x_singlecell_i1_R1.fq.gz) [Novogene_10x_singlecell_i2_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122519/Novogene_10x_singlecell_i2_R1.fq.gz) [Novogene_10x_singlecell_i3_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122601/Novogene_10x_singlecell_i3_R1.fq.gz) [Novogene_10x_singlecell_i4_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122628/Novogene_10x_singlecell_i4_R1.fq.gz) | [Novogene_10x_singlecell_i1_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122506/Novogene_10x_singlecell_i1_R2.fq.gz) [Novogene_10x_singlecell_i2_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122542/Novogene_10x_singlecell_i2_R2.fq.gz) [Novogene_10x_singlecell_i3_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122616/Novogene_10x_singlecell_i3_R2.fq.gz) [Novogene_10x_singlecell_i4_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122644/Novogene_10x_singlecell_i4_R2.fq.gz) | md5 | 
+XXX | [Novogene_10x_singlecell_i1_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122450/Novogene_10x_singlecell_i1_R1.fq.gz) [Novogene_10x_singlecell_i2_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122519/Novogene_10x_singlecell_i2_R1.fq.gz) [Novogene_10x_singlecell_i3_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122601/Novogene_10x_singlecell_i3_R1.fq.gz) [Novogene_10x_singlecell_i4_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122628/Novogene_10x_singlecell_i4_R1.fq.gz) | [Novogene_10x_singlecell_i1_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122506/Novogene_10x_singlecell_i1_R2.fq.gz) [Novogene_10x_singlecell_i2_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122542/Novogene_10x_singlecell_i2_R2.fq.gz) [Novogene_10x_singlecell_i3_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122616/Novogene_10x_singlecell_i3_R2.fq.gz) [Novogene_10x_singlecell_i4_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122644/Novogene_10x_singlecell_i4_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/10x_genomics/Novogene_10x_singlecell.MD5) | 
 
 - ### 10X Linked-Reads Genome Sequencing
 
 species | left reads | right reads | md5sum | data size
 ---|:--:|:--:|:--:|:--
-XXX | [Novogene_10x_genome_i1_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531121620/Novogene_10x_genome_i1_R1.fq.gz) [Novogene_10x_genome_i2_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531121810/Novogene_10x_genome_i2_R1.fq.gz) [Novogene_10x_genome_i3_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122003/Novogene_10x_genome_i3_R1.fq.gz) [Novogene_10x_genome_i4_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122251/Novogene_10x_genome_i4_R1.fq.gz) | [Novogene_10x_genome_i1_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531121714/Novogene_10x_genome_i1_R2.fq.gz) [Novogene_10x_genome_i2_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531121905/Novogene_10x_genome_i2_R2.fq.gz) [Novogene_10x_genome_i3_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122125/Novogene_10x_genome_i3_R2.fq.gz) [Novogene_10x_genome_i4_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122349/Novogene_10x_genome_i4_R2.fq.gz) | md5 | 
+XXX | [Novogene_10x_genome_i1_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531121620/Novogene_10x_genome_i1_R1.fq.gz) [Novogene_10x_genome_i2_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531121810/Novogene_10x_genome_i2_R1.fq.gz) [Novogene_10x_genome_i3_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122003/Novogene_10x_genome_i3_R1.fq.gz) [Novogene_10x_genome_i4_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122251/Novogene_10x_genome_i4_R1.fq.gz) | [Novogene_10x_genome_i1_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531121714/Novogene_10x_genome_i1_R2.fq.gz) [Novogene_10x_genome_i2_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531121905/Novogene_10x_genome_i2_R2.fq.gz) [Novogene_10x_genome_i3_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122125/Novogene_10x_genome_i3_R2.fq.gz) [Novogene_10x_genome_i4_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190531122349/Novogene_10x_genome_i4_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/10x_genomics/Novogene_10x_genome.MD5) | 
 
 
 ## Citations
