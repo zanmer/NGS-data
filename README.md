@@ -16,10 +16,10 @@ To compare with benchmark of GIAB, we provide genome sequencing data of HG002, w
 
 sample source | left reads | right reads | md5sum | data size
 ---|:--:|:--:|:--:|:--
-HG002 | HG002_novogene_wes_20g_rep1_1.fq.gz | HG002_novogene_wes_20g_rep1_2.fq.gz | md5 | 16G
-HG002 | HG002_novogene_wes_20g_rep2_1.fq.gz | HG002_novogene_wes_20g_rep2_2.fq.gz | md5 | 16G
-HG002 | HG002_novogene_wes_12g_1.fq.gz | HG002_novogene_wes_12g_2.fq.gz | md5 | 12G
-HG002 | HG002_novogene_wes_6g_1.fq.gz | HG002_novogene_wes_6g_2.fq.gz | md5 | 6G
+HG002 | HG002_novogene_wes_20g_rep1_R1.fq.gz | HG002_novogene_wes_20g_rep1_R2.fq.gz | md5 | 16G
+HG002 | HG002_novogene_wes_20g_rep2_R1.fq.gz | HG002_novogene_wes_20g_rep2_R2.fq.gz | md5 | 16G
+HG002 | HG002_novogene_wes_12g_R1.fq.gz | HG002_novogene_wes_12g_R2.fq.gz | md5 | 12G
+HG002 | HG002_novogene_wes_6g_R1.fq.gz | HG002_novogene_wes_6g_R2.fq.gz | md5 | 6G
 
 
 - ### Whole Genome Sequencing
@@ -28,10 +28,10 @@ HG002 | HG002_novogene_wes_6g_1.fq.gz | HG002_novogene_wes_6g_2.fq.gz | md5 | 6G
 
 sample source | left reads | right reads | md5sum | data size
 ---|:--:|:--:|:--:|:--
-HG002 | HG002_novogene_wes_20g_1.fq.gz | HG002_novogene_wgs_20g_2.fq.gz | md5 | 20G
-Novogene | Novogene_wgs_90g_1.fq.gz | Novogene_wgs_90g_2.fq.gz | md5 | 90G
-Novogene | Novogene_wgs_120g_1.fq.gz | Novogene_wgs_120g_2.fq.gz | md5 | 120G
-Novogene | Novogene_wgs_180g_l1_1.fq.gz Novogene_wgs_180g_l2_1.fq.gz | Novogene_wgs_180g_l2_2.fq.gz Novogene_wgs_180g_l2_2.fq.gz | md5 | 180G
+HG002 | HG002_novogene_wes_20g_R1.fq.gz | HG002_novogene_wgs_20g_R2.fq.gz | md5 | 20G
+Novogene | Novogene_wgs_90g_R1.fq.gz | Novogene_wgs_90g_R2.fq.gz | md5 | 90G
+Novogene | Novogene_wgs_120g_R1.fq.gz | Novogene_wgs_120g_R2.fq.gz | md5 | 120G
+Novogene | Novogene_wgs_180g_l1_R1.fq.gz Novogene_wgs_180g_l2_R1.fq.gz | Novogene_wgs_180g_l2_R2.fq.gz Novogene_wgs_180g_l2_R2.fq.gz | md5 | 180G
 
 
 
@@ -43,24 +43,24 @@ Transcriptome or RNA sequencing can be ultilized to analysis many classes of RNA
 
 species | left reads | right reads | md5sum | spike-in | data size
 ---|:--:|:--:|:--:|:--:|:--
-Human | Novogene_human_mrnaseq_rep1_1.fq.gz | Novogene_human_mrnaseq_rep1_2.fq.gz | md5 | Y | 6G
-Human | Novogene_human_mrnaseq_rep2_1.fq.gz | Novogene_human_mrnaseq_rep2_2.fq.gz | md5 | Y | 6G
-Human | Novogene_human_mrnaseq_rep3_1.fq.gz | Novogene_human_mrnaseq_rep3_2.fq.gz | md5 | Y | 6G
-Arabidopsis | Novogene_arabidopsis_mrnaseq_rep1_1.fq.gz | Novogene_arabidopsis_mrnaseq_rep1_2.fq.gz | md5 | Y | 6G
-Arabidopsis | Novogene_arabidopsis_mrnaseq_rep2_1.fq.gz | Novogene_arabidopsis_mrnaseq_rep2_2.fq.gz | md5 | Y | 6G
-Arabidopsis | Novogene_arabidopsis_mrnaseq_rep3_1.fq.gz | Novogene_arabidopsis_mrnaseq_rep3_2.fq.gz | md5 | Y | 6G
+Human | Novogene_human_mrnaseq_rep1_R1.fq.gz | Novogene_human_mrnaseq_rep1_R2.fq.gz | md5 | Y | 6G
+Human | Novogene_human_mrnaseq_rep2_R1.fq.gz | Novogene_human_mrnaseq_rep2_R2.fq.gz | md5 | Y | 6G
+Human | Novogene_human_mrnaseq_rep3_R1.fq.gz | Novogene_human_mrnaseq_rep3_R2.fq.gz | md5 | Y | 6G
+Arabidopsis | Novogene_arabidopsis_mrnaseq_rep1_R1.fq.gz | Novogene_arabidopsis_mrnaseq_rep1_R2.fq.gz | md5 | Y | 6G
+Arabidopsis | Novogene_arabidopsis_mrnaseq_rep2_R1.fq.gz | Novogene_arabidopsis_mrnaseq_rep2_R2.fq.gz | md5 | Y | 6G
+Arabidopsis | Novogene_arabidopsis_mrnaseq_rep3_R1.fq.gz | Novogene_arabidopsis_mrnaseq_rep3_R2.fq.gz | md5 | Y | 6G
 
 - ### Whole RNA Sequencing
+
 species | left reads | right reads | md5sum | spike-in | data size
 ---|:--:|:--:|:--:|:--:|:--
-Human | Novogene_human_wholernaseq_1.fq.gz | Novogene_human_wholernaseq_2.fq.gz | md5 | N | 12G
-Arabidopsis | Novogene_arabidopsis_wholernaseq_1.fq.gz | Novogene_arabidopsis_wholernaseq_2.fq.gz | md5 | N | 12G
+Human | Novogene_human_wholernaseq_R1.fq.gz | Novogene_human_wholernaseq_R2.fq.gz | md5 | N | 12G
 
 - ### Single Cell RNA Sequencing
 
-```
-To be continued ...
-```
+species | left reads | right reads | md5sum | spike-in | data size
+---|:--:|:--:|:--:|:--:|:--
+Arabidopsis | Novogene_arabidopsis_singlecell_R1.fq.gz | Novogene_arabidopsis_singlecell_R2.fq.gz | md5 | N | 12G
 
 
 ## 3. PacBio Sequencing
@@ -83,13 +83,13 @@ XXX | Novogene_pacbio_genome_subreads.bam | Novogene_pacbio_genome_subreads.bam.
 
 species | left reads | right reads | md5sum | data size
 ---|:--:|:--:|:--:|:--
-XXX | Novogene_10x_singlecell_i1_1.fq.gz Novogene_10x_singlecell_i2_1.fq.gz Novogene_10x_singlecell_i3_1.fq.gz Novogene_10x_singlecell_i4_1.fq.gz | Novogene_10x_singlecell_i1_2.fq.gz Novogene_10x_singlecell_i2_2.fq.gz Novogene_10x_singlecell_i3_2.fq.gz Novogene_10x_singlecell_i4_2.fq.gz | md5 | 
+XXX | Novogene_10x_singlecell_i1_R1.fq.gz Novogene_10x_singlecell_i2_R1.fq.gz Novogene_10x_singlecell_i3_R1.fq.gz Novogene_10x_singlecell_i4_R1.fq.gz | Novogene_10x_singlecell_i1_R2.fq.gz Novogene_10x_singlecell_i2_R2.fq.gz Novogene_10x_singlecell_i3_R2.fq.gz Novogene_10x_singlecell_i4_R2.fq.gz | md5 | 
 
 - ### 10X Linked-Reads Genome Sequencing
 
 species | left reads | right reads | md5sum | data size
 ---|:--:|:--:|:--:|:--
-XXX | Novogene_10x_genome_i1_1.fq.gz Novogene_10x_genome_i2_1.fq.gz Novogene_10x_genome_i3_1.fq.gz Novogene_10x_genome_i4_1.fq.gz | Novogene_10x_genome_i1_2.fq.gz Novogene_10x_genome_i2_2.fq.gz Novogene_10x_genome_i3_2.fq.gz Novogene_10x_genome_i4_2.fq.gz | md5 | 
+XXX | Novogene_10x_genome_i1_R1.fq.gz Novogene_10x_genome_i2_R1.fq.gz Novogene_10x_genome_i3_R1.fq.gz Novogene_10x_genome_i4_R1.fq.gz | Novogene_10x_genome_i1_R2.fq.gz Novogene_10x_genome_i2_R2.fq.gz Novogene_10x_genome_i3_R2.fq.gz Novogene_10x_genome_i4_R2.fq.gz | md5 | 
 
 
 ## Citations
