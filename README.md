@@ -69,13 +69,13 @@ Arabidopsis | [Novogene_arabidopsis_singlecell_R1.fq.gz](https://hweu-tj.oss-cn-
 
 species | subread_bam | subread_bam_index | md5sum | data size
 ---|:--:|:--:|:--:|:--
-Human | Novogene_pacbio_isoseq_subreads.bam | Novogene_pacbio_isoseq_subreads.bam.pbi | md5 | 
+Human | Novogene_pacbio_isoseq_subreads.bam | [Novogene_pacbio_isoseq_subreads.bam.pbi](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_isoseq_subreads.bam.pbi) | md5 | 
 
 - ### Pacbio Genome Sequencing
 
 species | subread_bam | subread_bam_index | md5sum | data size
 ---|:--:|:--:|:--:|:--
-XXX | Novogene_pacbio_genome_subreads.bam | Novogene_pacbio_genome_subreads.bam.pbi | md5 | 
+XXX | Novogene_pacbio_genome_subreads.bam | [Novogene_pacbio_genome_subreads.bam.pbi](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_genome_subreads.bam.pbi) | md5 | 
 
 
 ## 4. 10X Genomics
