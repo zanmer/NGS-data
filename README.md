@@ -56,13 +56,13 @@ Arabidopsis | [Novogene_arabidopsis_mrnaseq_rep3_R1.fq.gz](https://hweu-ld.oss-e
 
 species | left reads | right reads | md5sum | spike-in | data size
 ---|:--:|:--:|:--:|:--:|:--
-Human | [Novogene_human_wholernaseq_R1.fq.gz](https://hweu-tj.oss-cn-beijing.aliyuncs.com/demo/20190531193633/Novogene_human_wholernaseq_R1.fq.gz) | [Novogene_human_wholernaseq_R2.fq.gz](https://hweu-tj.oss-cn-beijing.aliyuncs.com/demo/20190531193723/Novogene_human_wholernaseq_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/transcriptome_sequencing/Novogene_human_wholernaseq.MD5) | N | 15G
+Human | [Novogene_human_wholernaseq_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190601151739/Novogene_human_wholernaseq_R1.fq.gz) | [Novogene_human_wholernaseq_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190601151812/Novogene_human_wholernaseq_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/transcriptome_sequencing/Novogene_human_wholernaseq.MD5) | N | 15G
 
 - ### Single Cell RNA Sequencing
 
 species | left reads | right reads | md5sum | spike-in | data size
 ---|:--:|:--:|:--:|:--:|:--
-Arabidopsis | [Novogene_arabidopsis_singlecell_R1.fq.gz](https://hweu-tj.oss-cn-beijing.aliyuncs.com/demo/20190531193537/Novogene_arabidopsis_singlecell_R1.fq.gz) | [Novogene_arabidopsis_singlecell_R2.fq.gz](https://hweu-tj.oss-cn-beijing.aliyuncs.com/demo/20190531193605/Novogene_arabidopsis_singlecell_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/transcriptome_sequencing/Novogene_arabidopsis_singlecell.MD5) | N | 7G
+Arabidopsis | [Novogene_arabidopsis_singlecell_R1.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190601151705/Novogene_arabidopsis_singlecell_R1.fq.gz) | [Novogene_arabidopsis_singlecell_R2.fq.gz](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190601151722/Novogene_arabidopsis_singlecell_R2.fq.gz) | [md5](https://github.com/zanmer/NGS-data/blob/master/transcriptome_sequencing/Novogene_arabidopsis_singlecell.MD5) | N | 7G
 
 
 ## 3. PacBio Sequencing
@@ -71,13 +71,13 @@ Arabidopsis | [Novogene_arabidopsis_singlecell_R1.fq.gz](https://hweu-tj.oss-cn-
 
 species | subread_bam | subread_bam_index | md5sum | data size
 ---|:--:|:--:|:--:|:--
-Human | Novogene_pacbio_isoseq_subreads.bam | [Novogene_pacbio_isoseq_subreads.bam.pbi](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_isoseq_subreads.bam.pbi) | [md5](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_isoseq.MD5) | 
+Human | [Novogene_pacbio_isoseq_subreads.bam](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190601152411/Novogene_pacbio_isoseq_subreads.bam) | [Novogene_pacbio_isoseq_subreads.bam.pbi](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_isoseq_subreads.bam.pbi) | [md5](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_isoseq.MD5) | 
 
 - ### Pacbio Genome Sequencing
 
 species | subread_bam | subread_bam_index | md5sum | data size
 ---|:--:|:--:|:--:|:--
-Unknown | Novogene_pacbio_genome_subreads.bam | [Novogene_pacbio_genome_subreads.bam.pbi](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_genome_subreads.bam.pbi) | [md5](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_genome.MD5) | 20G
+Unknown | [Novogene_pacbio_genome_subreads.bam](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190601151844/Novogene_pacbio_genome_subreads.bam) | [Novogene_pacbio_genome_subreads.bam.pbi](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_genome_subreads.bam.pbi) | [md5](https://github.com/zanmer/NGS-data/blob/master/pacbio_sequencing/Novogene_pacbio_genome.MD5) | 20G
 
 
 ## 4. 10X Genomics
